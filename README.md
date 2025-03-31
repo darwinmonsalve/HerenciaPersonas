@@ -7,10 +7,7 @@
 *Fecha:* 31/03/2025
 
 ## Objetivo
-Determinar el desarrollo de las competencias básicas para programar una aplicación en el lenguaje Java, teniendo en cuenta el paradigma POO y conexión a un SGBD.
-
-## Descripción del Proyecto
-Este proyecto implementa el concepto de Herencia en Java, desarrollado en NetBeans. El proyecto está estructurado de la siguiente manera:
+Determinar el desarrollo de las competencias básicas para programar una aplicación en el lenguaje Java, teniendo en cuenta el paradigma POO y conexión a un SGBD
 
 ## Instrucciones
 1. Desarrollar un proyecto en Netbeans que represente el concepto de Herencia.
